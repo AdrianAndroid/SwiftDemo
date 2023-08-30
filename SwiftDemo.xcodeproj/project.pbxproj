@@ -243,6 +243,7 @@
 		16E514C42A9F2134004D95B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = X9AVSEH2C9;
 				ENABLE_HARDENED_RUNTIME = YES;

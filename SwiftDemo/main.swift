@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+var myString = "Hello World!"
+print(myString)
 
